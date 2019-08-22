@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo /usr/bin/java -jar /home/ubuntu/workspace/demo-0.0.1-SNAPSHOT.jar
